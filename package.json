@@ -1,0 +1,14 @@
+{
+  "name": "48-grupe-oop",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lilia (https://github.com/liliiavint)",
+  "license": "ISC"
+}
